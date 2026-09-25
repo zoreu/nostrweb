@@ -4,15 +4,23 @@
 
 Instead of relying exclusively on traditional web servers and centralized hosting, Nostr Web uses Nostr as a decentralized layer for distributing and accessing static web content.
 
-## 🌐 Demo
+## 🌐 Web Interface
 
-Try the Nostr Web P2P demo:
+You can access the Nostr Web interface directly from your browser:
 
-**Nostr Address:**
+**https://zoreu.github.io/nostrweb/**
+
+The interface allows you to test and access **P2P website addresses on the Nostr network**.
+
+## 🚀 P2P Demo
+
+You can test the following P2P website address using the Nostr Web interface:
 
 ```text
 naddr1qvzqqqpmrqpzqsndkuva5twup7l6aut3uthg6jw74updnyypq4wa2pc0qrfmxthaqy28wumn8ghj7un9d3shjtnyv9kh2uewd9hszrthwden5te0dehhxtnvdakqz9nhwden5te0wfjkccte9ehx7um5wghxyctwvsqqjmn0wd68yhmhv43qqs724z
 ```
+
+Copy the address above and paste it into the Nostr Web interface to test the P2P website.
 
 ## ✨ Features
 
@@ -24,6 +32,7 @@ naddr1qvzqqqpmrqpzqsndkuva5twup7l6aut3uthg6jw74updnyypq4wa2pc0qrfmxthaqy28wumn8g
 * 🔗 Nostr-based addressing
 * 📦 Easy website packaging and distribution
 * 🔓 Open-source and decentralized
+* 🌍 Browser-based interface for accessing P2P addresses
 
 ## 🧩 How It Works
 
@@ -52,7 +61,23 @@ Static Website
    Web Browser
 ```
 
-This approach allows website content to be distributed through the Nostr ecosystem instead of depending entirely on a single centralized hosting provider.
+The Nostr Web interface acts as a gateway between the traditional web browser and websites distributed through the Nostr network.
+
+## 🌐 Accessing a P2P Website
+
+To access a P2P website:
+
+1. Open the Nostr Web interface:
+
+   **https://zoreu.github.io/nostrweb/**
+
+2. Enter a supported Nostr website address.
+
+3. Submit the address.
+
+4. Nostr Web retrieves the required website data through the Nostr network.
+
+5. The static website is loaded directly in your browser.
 
 ## 📦 Download
 
@@ -111,7 +136,7 @@ Nostr Relays
    └── Relay D
 ```
 
-This can make static web content more portable and less dependent on a single hosting location.
+This approach allows static web content to be distributed through the Nostr ecosystem instead of depending entirely on a single centralized hosting provider.
 
 ## 🔐 Decentralization
 
@@ -134,11 +159,14 @@ Nostr Web can be used for:
 * Nostr-based publishing
 * Distributed static content
 
-## 📁 Repository
+## 🔗 Links
 
-GitHub:
-
-https://github.com/zoreu/nostrweb
+| Resource             | Link                                             |
+| -------------------- | ------------------------------------------------ |
+| 🌐 Web Interface     | https://zoreu.github.io/nostrweb/                |
+| 💻 GitHub Repository | https://github.com/zoreu/nostrweb                |
+| 📦 Download          | [nostr_web.zip](./nostr_web.zip)                 |
+| 🧪 P2P Demo          | Use the Nostr address above in the web interface |
 
 ## 🤝 Contributing
 
