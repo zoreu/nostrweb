@@ -17,7 +17,7 @@ The interface allows you to test and access **P2P website addresses on the Nostr
 You can test the following P2P website address using the Nostr Web interface:
 
 ```text
-naddr1qvzqqqpmrqpzqsndkuva5twup7l6aut3uthg6jw74updnyypq4wa2pc0qrfmxthaqy28wumn8ghj7un9d3shjtnyv9kh2uewd9hszrthwden5te0dehhxtnvdakqz9nhwden5te0wfjkccte9ec8y6tdv9kzumn9wsqq26twv3jhsyqnnzt
+naddr1qvzqqqyf8qpzqsndkuva5twup7l6aut3uthg6jw74updnyypq4wa2pc0qrfmxthaqy28wumn8ghj7un9d3shjtnyv9kh2uewd9hsz9nhwden5te0wfjkccte9ec8y6tdv9kzumn9wsqqcumfw3jj6ar9wd6x2tf3ccr3yq
 ```
 
 Copy the address above and paste it into the Nostr Web interface to test the P2P website.
